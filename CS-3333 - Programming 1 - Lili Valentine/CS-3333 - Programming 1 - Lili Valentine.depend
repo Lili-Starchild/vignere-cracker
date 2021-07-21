@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1613792684 source:c:\users\theba\onedrive\documents\coding\computer science\c++ files\cs-3333 - programming 1 - lili valentine\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<cstdlib>
+	<time.h>
+	<bitset>
+	<bits/stdc++.h>
+	<math.h>
+
